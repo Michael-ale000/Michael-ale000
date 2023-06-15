@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-ale000&label=Profile%20views&color=0e75b6&style=flat" alt="michael-ale000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-ale000" alt="michael-ale000" /></a> </p>
-
 - 🔭 I’m currently working on [Personal Finance APP](https://github.com/Michael-ale000/Personal-Finance-App)
 
 - 🌱 I’m currently learning **Data Analytics and Data Science**
